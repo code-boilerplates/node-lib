@@ -1,0 +1,17 @@
+
+{
+  "name": "@name@",
+  "version": "0.0.1",
+  "description": "",
+  "dependencies": {},
+  "main": "lib/@name@.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": ""
+  }
+}
